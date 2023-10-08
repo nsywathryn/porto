@@ -34,7 +34,7 @@ body {
 	margin: 25px auto;
 	border: 15px groove deepskyblue;
 }
-.img-area img {
+.image img {
 	width: 100%;
 }
 .main {
@@ -51,7 +51,7 @@ body {
 .left ul li {
 	line-height: 2;
 }
-h2 {
+h1 {
 	background: #00b6c4;
 	padding: 15px;
 	color: #fff;
