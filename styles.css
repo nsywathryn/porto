@@ -49,6 +49,7 @@ body {
 	line-height: 2;
 }
 .left ul li {
+    margin-left: 5px;
 	line-height: 2;
 }
 h2 {
@@ -70,7 +71,6 @@ h2 {
 	line-height: 2.9;
 }
 .right ul li {
-    margin-left: 5px;
 	line-height: 2;
 }
 
