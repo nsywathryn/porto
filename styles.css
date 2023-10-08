@@ -70,7 +70,8 @@ h2 {
 	line-height: 2.9;
 }
 .right ul li {
-	line-height: 3;
+    margin-left: 5px;
+	line-height: 2;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
