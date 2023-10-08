@@ -1,14 +1,14 @@
 * {
     box-sizing: border-box;
 	margin: 0;
-	padding: 0;
+	padding: 20px;
 	font-family: 'Gabarito', cursive;
 }
 body {
-	background: #00b6c4;
+	background: #aec7c9;
 }
 .container {
-	background: #f0b2b2;
+	background: #f8f5f5;
 	max-width: 800px;
 	margin: 60px auto;
 	height: 1250px;
